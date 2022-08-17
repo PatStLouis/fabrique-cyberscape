@@ -1,4 +1,4 @@
-# Exercises
+# Exercices
 
 ** IMPORTANT: Ne pas mettre d'information sensible sur la répo (informations de routeur, mots de passes, clefs privées, etc...) **
 
