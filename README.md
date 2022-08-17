@@ -1,6 +1,6 @@
 # Projet Cyberscape
 
-**En contruction**
+**En construction**
 
 Bloc d'ateliers sur des notions informatiques en cybersécurité avec un jeu d'évasion cybernétique en mode hybride comme atelier synthèse.
 
